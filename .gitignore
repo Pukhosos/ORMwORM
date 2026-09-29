@@ -1,0 +1,13 @@
+__pycache__
+build
+dist
+
+.benchmarks
+.hypothesis
+.mypy_cache
+.pytest_cache
+.ruff_cache
+.venv
+
+src/ORMwORM.egg-info
+src/ormworm/_version.py
